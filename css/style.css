@@ -1,0 +1,22 @@
+body {
+  width : 350px;
+  font  : 12px normal Arial,
+          Verdana,
+          sans-serif;
+}
+
+#info {
+  padding : 10px;
+  border  : 1px solid #000;
+}
+
+#icon_info {
+  font : 7px normal Arial,
+         Verdana,
+         sans-serif;
+}
+
+#icon_info>a {
+  color           : #000;
+  text-decoration : none;
+}
