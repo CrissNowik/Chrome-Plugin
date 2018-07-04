@@ -1,4 +1,4 @@
-# Chrome-Plugin
+# Airport information - Chrome plugin
 
 ### Description:
 Simple plugin to Google Chrome which shows basic info about airports searching by IATA airport code connecting by API with soa.smext.faa.gov/asws/api.
