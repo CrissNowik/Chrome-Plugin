@@ -10,7 +10,7 @@ Simple plugin to Google Chrome which shows basic info about airports searching b
 - API
 
 ### How to install:
-0. Clone this repository on your computer => write in console: "git clone https://github.com/CrissNowik/Chrome-Plugin.git " ...
+0. Clone this repository on your computer => write in console: "git clone https://github.com/CrissNowik/Chrome-Plugin.git"
 0.1 ... or just download ZIP with this repo 
 1. Open Google Chrome Browser 
 2. Go to top right menu
