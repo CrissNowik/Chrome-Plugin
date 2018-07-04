@@ -11,6 +11,6 @@
     "plane.png", "popup.js"
   ],
   "permissions": [
-    "https://soa.smext.faa.gov/"
+    "https://soa.smext.faa.gov/asws"
   ]
 }
